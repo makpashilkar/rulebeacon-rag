@@ -1,0 +1,15 @@
+# Python environment and generated files
+.venv/
+__pycache__/
+*.py[cod]
+
+# API keys and local secrets
+.env
+
+
+# Downloaded PDFs - obtain separately from their official sources
+data/**/*.pdf
+data/*.pdf
+
+# macOS files
+.DS_Store
